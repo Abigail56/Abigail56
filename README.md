@@ -27,15 +27,29 @@ I build practical web applications and backend APIs with a focus on clean struct
 - Responsive user interfaces
 - Software architecture and developer tooling
 
+## Project Showcase
+
+| Project | Focus | Technologies | Status |
+|---|---|---|---|
+| [Social Logistics Platform](https://github.com/Abigail56/social-logistics-platform) | Delivery workflows and logistics API foundation | Python, FastAPI, PostgreSQL, Alembic | Active backend project |
+| [BookStore API](https://github.com/Abigail56/BookStoreAPI----PostgreSQL-Docker-and-Migration) | API and database development workflow | Python, PostgreSQL, Docker, migrations | Portfolio project |
+| [Task Management API](https://github.com/Abigail56/Task_Management_API) | Task-management backend services | Python | Portfolio project |
+| [Voting UI — Next.js](https://github.com/Abigail56/VotingUI-NEXT.JS) | TypeScript voting interface | TypeScript, Next.js | Live demo available |
+| [Registration Form](https://github.com/Abigail56/Registration-form) | Registration and login interface | HTML, CSS | Frontend project |
+
 ## Featured Projects
 
-Here are some projects from my portfolio:
+### Social Logistics Platform
 
-- **[social-logistics-platform](https://github.com/Abigail56/social-logistics-platform)** — A logistics-focused application built with Python.
-- **[BookStoreAPI----PostgreSQL-Docker-and-Migration](https://github.com/Abigail56/BookStoreAPI----PostgreSQL-Docker-and-Migration)** — A backend project involving a bookstore API, PostgreSQL, Docker, and database migration workflows.
-- **[Task_Management_API](https://github.com/Abigail56/Task_Management_API)** — A task-management API built with Python.
-- **[VotingUI-NEXT.JS](https://github.com/Abigail56/VotingUI-NEXT.JS)** — A TypeScript-based voting interface with a live demo: [voting-ui-next-js.vercel.app](https://voting-ui-next-js.vercel.app).
-- **[Registration-form](https://github.com/Abigail56/Registration-form)** — A simple registration and login interface.
+A FastAPI backend foundation for logistics and delivery operations. It includes authentication, delivery creation and updates, controlled delivery status transitions, PostgreSQL configuration, Alembic migrations, automated tests, and GitHub Actions CI.
+
+[Read the project documentation →](https://github.com/Abigail56/social-logistics-platform#readme)
+
+### Voting UI — Next.js
+
+A TypeScript-based voting interface with a live deployment:
+
+[Open the live demo →](https://voting-ui-next-js.vercel.app)
 
 ## Current Goals
 
