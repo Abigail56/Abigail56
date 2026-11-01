@@ -1,119 +1,102 @@
-# Hi, I'm Chukwu Chinecherem 👋
+<div align="center">
 
-### Full-Stack Software Engineer | Python · FastAPI · React · TypeScript
+# Chukwu Chinecherem
 
-I build practical web applications and backend systems, turning ideas into reliable, well-structured software.
+### Full-Stack Software Engineer
 
-My work focuses on backend engineering, API development, database design, and building user-friendly applications with modern technologies.
+**Building thoughtful digital products, from frontend to backend.**
 
-- 🔭 **Currently building:** RouteBridge Logistics and VoxPlay
-- ⚙️ **Focus areas:** Backend systems, REST APIs, database architecture, and full-stack development
-- 🌱 **Currently improving:** Testing, deployment, system design, and production-ready engineering
-- 🤝 **Open to:** Software engineering opportunities and meaningful collaborations
-- 📍 **Based in:** Nigeria
+I build useful web applications and backend systems with a focus on clear architecture, reliable APIs, thoughtful user experiences, and maintainable code.
 
----
+[Portfolio](https://github.com/Abigail56/portfolio) · [GitHub](https://github.com/Abigail56)
 
-## 🛠️ Tech Stack
-
-**Languages**
-  
-Python · TypeScript · JavaScript · SQL
-
-**Backend**
-  
-FastAPI · REST APIs · SQLModel · Authentication
-
-**Frontend**
-  
-React · Next.js · HTML · CSS
-
-**Databases & Infrastructure**
-  
-PostgreSQL · PostGIS · Redis · Docker · MinIO
-
-**Tools**
-  
-Git · GitHub Actions · Linux · Alembic
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## About
 
-### RouteBridge Logistics
-**Full-Stack Logistics & Delivery Platform**
+I'm a software engineer based in Nigeria, working across backend systems and modern web applications. I enjoy turning practical problems into well-structured software—from API design and data modeling to responsive interfaces and deployment workflows.
 
-A logistics platform designed to help delivery companies manage merchant orders, dispatch drivers, track deliveries, and reconcile cash-on-delivery payments.
+- **Currently building:** RouteBridge Logistics and VOXPLAY
+- **Core interests:** Backend engineering, full-stack product development, system design, and developer experience
+- **Working with:** Python, FastAPI, TypeScript, React, Next.js, and PostgreSQL
+- **Open to:** Software engineering opportunities and collaborative projects
 
-- Multi-tenant architecture
-- Delivery creation and status management
-- Backend API development
-- PostgreSQL and geospatial data
-- Authentication and database migrations
+## Tech Stack
 
-**Tech:** Python · FastAPI · PostgreSQL · PostGIS · Redis
+| Area | Technologies |
+|---|---|
+| Languages | Python, TypeScript, JavaScript, SQL |
+| Backend | FastAPI, SQLModel, REST APIs, authentication |
+| Frontend | React, Next.js, HTML, CSS |
+| Data | PostgreSQL, PostGIS, Redis |
+| Infrastructure | Docker, GitHub Actions, Alembic, MinIO |
+| Workflow | Git, Linux, automated testing |
 
-[View Repository](https://github.com/Abigail56/Route-Bridge)
+## Featured Projects
+
+### [RouteBridge Logistics](https://github.com/Abigail56/Route-Bridge)
+**Last-mile delivery operations platform**
+
+A logistics platform for delivery companies to manage merchant orders, dispatch drivers, track deliveries, and reconcile cash-on-delivery payments.
+
+- Multi-tenant workspaces and role-based workflows
+- Order, delivery-job, and status management
+- Live fleet map and customer tracking
+- Offline-capable driver experience with queued sync
+- Cash-on-delivery reconciliation and audit events
+
+**Stack:** Python · FastAPI · SQLModel · PostgreSQL · PostGIS · Redis · Next.js
+
+[Live demo](https://routebridge-web.onrender.com/) · [Repository](https://github.com/Abigail56/Route-Bridge)
+
+### [VOXPLAY](https://github.com/Abigail56/voxplay)
+**Social multiplayer party games**
+
+A voice-powered party gaming experience where friends join from their own phones and play together. The project includes team quiz gameplay and additional game modes such as Beat Drop, Story Forge, Word Bomb, and Who's Talking?
+
+- Room codes and invite links
+- Team-based multiplayer rounds and scoring
+- Voice input and speech-to-text gameplay
+- Reconnecting players and live room updates
+- Party-screen experience for shared displays
+
+**Stack:** Python · TypeScript · Next.js · WebSockets · Redis · PostgreSQL
+
+[Repository](https://github.com/Abigail56/voxplay)
+
+### [Echovault](https://github.com/Abigail56/Echovault)
+**Personal knowledge and project workspace**
+
+A full-stack application for organizing notes, projects, and decisions, with search and an AI-assisted knowledge workflow.
+
+**Stack:** TypeScript · Next.js · React · Python · FastAPI · PostgreSQL · Docker
+
+[Repository](https://github.com/Abigail56/Echovault)
+
+## Other Work
+
+- [Voting UI](https://github.com/Abigail56/VotingUI-NEXT.JS) — a responsive voting interface built with Next.js and TypeScript.
+- [BookStore API](https://github.com/Abigail56/BookStoreAPI----PostgreSQL-Docker-and-Migration) — API and database development with PostgreSQL, Docker, and migrations.
+- [Task Management API](https://github.com/Abigail56/Task_Management_API) — backend services for task management.
+
+## Currently Focused On
+
+- Building and documenting production-minded applications
+- Improving system design, testing, and deployment practices
+- Making APIs secure, reliable, and easy to use
+- Creating polished product experiences from end to end
+
+## Connect
+
+- [GitHub](https://github.com/Abigail56)
+- [LinkedIn](https://www.linkedin.com/in/chinecherem-chukwu-0b8a3428a/)
 
 ---
 
-### VoxPlay
-**Voice-Powered Multiplayer Party Games**
+<div align="center">
 
-An interactive gaming project exploring real-time multiplayer experiences, voice-powered gameplay, and social party games.
+*Thoughtful engineering. Practical products. Continuous improvement.*
 
-- Brain Clash team quiz
-- Who's Talking? game concept
-- Interactive multiplayer experiences
-
-**Tech:** Python · Real-time application development
-
-[View Repository](https://github.com/Abigail56/voxplay)
-
----
-
-### Echovault
-**TypeScript Application**
-
-A TypeScript-based project focused on building structured, maintainable application functionality.
-
-**Tech:** TypeScript
-
-[View Repository](https://github.com/Abigail56/Echovault)
-
----
-
-## 📌 Other Projects
-
-| Project | Focus | Technologies |
-|---|---|---|
-| Voting UI | Interactive voting interface | Next.js, TypeScript |
-| BookStore API | API and database development | Python, PostgreSQL, Docker |
-| Task Management API | Backend task management | Python |
-| Registration Form | User registration interface | HTML, CSS |
-
----
-
-## 📊 GitHub Activity
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Abigail56)](https://github.com/Abigail56)
-
----
-
-## 🎯 What I'm Working Toward
-
-- Building production-minded full-stack applications
-- Strengthening backend architecture and API design
-- Writing reliable, maintainable, and well-tested code
-- Improving deployment and DevOps practices
-- Collaborating with developers on useful software
-
----
-
-## 🤝 Let's Connect
-
-[GitHub](https://github.com/Abigail56) · [LinkedIn][(https://www.linkedin.com/in/necherem-chukwu/)]
-
----
-
-*Building thoughtful digital products, from frontend to backend.*
+</div>
