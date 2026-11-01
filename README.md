@@ -1,79 +1,119 @@
-# Hi, I'm Chinecherem Abigail
+# Hi, I'm Chukwu Chinecherem 👋
 
-### Full-Stack Developer | Python, FastAPI, JavaScript, React & TypeScript
+### Full-Stack Software Engineer | Python · FastAPI · React · TypeScript
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Abigail56&label=Profile%20views&color=10b981&style=flat" alt="Profile views" />
-  <a href="https://github.com/Abigail56"><img src="https://img.shields.io/github/followers/Abigail56?label=Followers&style=flat&color=3b82f6" alt="GitHub followers" /></a>
-</p>
+I build practical web applications and backend systems, turning ideas into reliable, well-structured software.
 
-## About Me
+My work focuses on backend engineering, API development, database design, and building user-friendly applications with modern technologies.
 
-I am a full-stack developer based in **Enugu State, Nigeria**, focused on building practical web applications and backend APIs. I enjoy turning ideas into structured, documented software and learning through hands-on projects.
+- 🔭 **Currently building:** RouteBridge Logistics and VoxPlay
+- ⚙️ **Focus areas:** Backend systems, REST APIs, database architecture, and full-stack development
+- 🌱 **Currently improving:** Testing, deployment, system design, and production-ready engineering
+- 🤝 **Open to:** Software engineering opportunities and meaningful collaborations
+- 📍 **Based in:** Nigeria
 
-My current work centers on Python and FastAPI backends, REST API design, relational databases, authentication foundations, workflow modeling, and modern JavaScript interfaces. I care about readable code, useful documentation, reliable testing, and steadily improving the way software is built and presented.
+---
 
-- Building and documenting production-minded full-stack projects
-- Strengthening backend engineering, testing, deployment, and API design skills
-- Open to collaboration, mentorship, and opportunities to build useful products
+## 🛠️ Tech Stack
 
-## Core Tech Stack
+**Languages**
+  
+Python · TypeScript · JavaScript · SQL
 
-<p>
-  <img src="https://img.shields.io/badge/Python-0b132b?style=flat&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-0b132b?style=flat&logo=fastapi&logoColor=10b981" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/JavaScript-0b132b?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-0b132b?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-0b132b?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-0b132b?style=flat&logo=next.js&logoColor=FFFFFF" alt="Next.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0b132b?style=flat&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-0b132b?style=flat&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-0b132b?style=flat&logo=github-actions&logoColor=2088FF" alt="GitHub Actions" />
-</p>
+**Backend**
+  
+FastAPI · REST APIs · SQLModel · Authentication
 
-## GitHub Stats
+**Frontend**
+  
+React · Next.js · HTML · CSS
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abigail56&show_icons=true&hide_border=true&theme=transparent&title_color=3b82f6&icon_color=10b981&text_color=64748b" alt="Abigail's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abigail56&layout=compact&hide_border=true&theme=transparent&title_color=3b82f6&text_color=64748b" alt="Abigail's top languages" />
-</p>
+**Databases & Infrastructure**
+  
+PostgreSQL · PostGIS · Redis · Docker · MinIO
 
-> Stats and visitor count are loaded dynamically from public GitHub profile services and may update over time.
+**Tools**
+  
+Git · GitHub Actions · Linux · Alembic
 
-## Project Showcase
+---
 
-| Project | Focus | Technologies | Status |
-|---|---|---|---|
-| [Social Logistics Platform](https://github.com/Abigail56/social-logistics-platform) | Delivery workflows and logistics API foundation | Python, FastAPI, PostgreSQL, Alembic | Active backend project |
-| [BookStore API](https://github.com/Abigail56/BookStoreAPI----PostgreSQL-Docker-and-Migration) | API and database development workflow | Python, PostgreSQL, Docker, migrations | Portfolio project |
-| [Task Management API](https://github.com/Abigail56/Task_Management_API) | Task-management backend services | Python | Portfolio project |
-| [Voting UI — Next.js](https://github.com/Abigail56/VotingUI-NEXT.JS) | TypeScript voting interface | TypeScript, Next.js | Live demo available |
-| [Registration Form](https://github.com/Abigail56/Registration-form) | Registration and login interface | HTML, CSS | Frontend project |
+## 🚀 Featured Projects
 
-## Featured Project: Social Logistics Platform
+### RouteBridge Logistics
+**Full-Stack Logistics & Delivery Platform**
 
-A FastAPI backend foundation for logistics and delivery operations. It includes authentication, delivery creation and updates, controlled delivery status transitions, PostgreSQL configuration, Alembic migrations, automated tests, and GitHub Actions CI.
+A logistics platform designed to help delivery companies manage merchant orders, dispatch drivers, track deliveries, and reconcile cash-on-delivery payments.
 
-[Read the project documentation →](https://github.com/Abigail56/social-logistics-platform#readme) · [View the architecture presentation structure →](https://github.com/Abigail56/social-logistics-platform/blob/main/docs/social-logistics-architecture-presentation.md)
+- Multi-tenant architecture
+- Delivery creation and status management
+- Backend API development
+- PostgreSQL and geospatial data
+- Authentication and database migrations
 
-## Other Work
+**Tech:** Python · FastAPI · PostgreSQL · PostGIS · Redis
 
-### Voting UI — Next.js
+[View Repository](https://github.com/Abigail56/Route-Bridge)
 
-A TypeScript-based voting interface with a live deployment:
+---
 
-[Open the live demo →](https://voting-ui-next-js.vercel.app)
+### VoxPlay
+**Voice-Powered Multiplayer Party Games**
 
-## Current Goals
+An interactive gaming project exploring real-time multiplayer experiences, voice-powered gameplay, and social party games.
 
-- Build and document production-minded full-stack projects
-- Improve testing, deployment, and API design practices
-- Contribute to collaborative software projects
-- Keep learning and sharing what I build
+- Brain Clash team quiz
+- Who's Talking? game concept
+- Interactive multiplayer experiences
 
-## Connect With Me
+**Tech:** Python · Real-time application development
 
-- [LinkedIn](https://www.linkedin.com/in/chinecherem-chukwu-0b8a3428a/)
-- [GitHub](https://github.com/Abigail56)
+[View Repository](https://github.com/Abigail56/voxplay)
 
-Thanks for visiting my profile.
+---
+
+### Echovault
+**TypeScript Application**
+
+A TypeScript-based project focused on building structured, maintainable application functionality.
+
+**Tech:** TypeScript
+
+[View Repository](https://github.com/Abigail56/Echovault)
+
+---
+
+## 📌 Other Projects
+
+| Project | Focus | Technologies |
+|---|---|---|
+| Voting UI | Interactive voting interface | Next.js, TypeScript |
+| BookStore API | API and database development | Python, PostgreSQL, Docker |
+| Task Management API | Backend task management | Python |
+| Registration Form | User registration interface | HTML, CSS |
+
+---
+
+## 📊 GitHub Activity
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abigail56)](https://github.com/Abigail56)
+
+---
+
+## 🎯 What I'm Working Toward
+
+- Building production-minded full-stack applications
+- Strengthening backend architecture and API design
+- Writing reliable, maintainable, and well-tested code
+- Improving deployment and DevOps practices
+- Collaborating with developers on useful software
+
+---
+
+## 🤝 Let's Connect
+
+[GitHub](https://github.com/Abigail56) · [LinkedIn](https://www.linkedin.com/in/chinecherem-chukwu-0b8a3428a)
+
+---
+
+*Building thoughtful digital products, from frontend to backend.*
