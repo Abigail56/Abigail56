@@ -112,7 +112,7 @@ A TypeScript-based project focused on building structured, maintainable applicat
 
 ## 🤝 Let's Connect
 
-[GitHub](https://github.com/Abigail56) · [LinkedIn](https://www.linkedin.com/in/chinecherem-chukwu-0b8a3428a)
+[GitHub](https://github.com/Abigail56) · [LinkedIn][(https://www.linkedin.com/in/necherem-chukwu/)]
 
 ---
 
