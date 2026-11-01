@@ -8,7 +8,7 @@
 
 I build useful web applications and backend systems with a focus on clear architecture, reliable APIs, thoughtful user experiences, and maintainable code.
 
-[Portfolio](https://github.com/Abigail56/portfolio) · [GitHub](https://github.com/Abigail56)
+[Portfolio source](https://github.com/Abigail56/portfolio) · [GitHub](https://github.com/Abigail56)
 
 </div>
 
@@ -69,9 +69,9 @@ A voice-powered party gaming experience where friends join from their own phones
 ### [Echovault](https://github.com/Abigail56/Echovault)
 **Personal knowledge and project workspace**
 
-A full-stack application for organizing notes, projects, and decisions, with search and an AI-assisted knowledge workflow.
+A personal knowledge and project-intelligence workspace for capturing notes, organizing projects, recording decisions, searching information, and optionally asking an AI assistant questions grounded in your own notes.
 
-**Stack:** TypeScript · Next.js · React · Python · FastAPI · PostgreSQL · Docker
+**Stack:** Next.js · React · TypeScript · FastAPI · SQLModel · PostgreSQL · Docker
 
 [Repository](https://github.com/Abigail56/Echovault)
 
@@ -91,7 +91,7 @@ A full-stack application for organizing notes, projects, and decisions, with sea
 ## Connect
 
 - [GitHub](https://github.com/Abigail56)
-- [LinkedIn](https://www.linkedin.com/in/chinecherem-chukwu-0b8a3428a/)
+- [LinkedIn](https://www.linkedin.com/in/necherem-chukwu/)
 
 ---
 
